@@ -1,4 +1,4 @@
-﻿# id, codification, season_id, date, round, home_id, away_id, home_formation_id, away_formation_id, home_goals_full_time, away_goals_full_time, home_goals_half_time, away_goals_half_time, result, home_possession, away_possession, home_shots, away_shots, home_shots_on_target, away_shots_on_target, home_fouls, away_fouls, home_yellow_cards, away_yellow_cards, home_red_cards, away_red_cards, home_corners, away_corners, home_offsides, away_offsides, b365h_odds, b365d_odds, b365a_odds, competition_code
+﻿id, codification, season_id, date, round, home_id, away_id, home_formation_id, away_formation_id, home_goals_full_time, away_goals_full_time, home_goals_half_time, away_goals_half_time, result, home_possession, away_possession, home_shots, away_shots, home_shots_on_target, away_shots_on_target, home_fouls, away_fouls, home_yellow_cards, away_yellow_cards, home_red_cards, away_red_cards, home_corners, away_corners, home_offsides, away_offsides, b365h_odds, b365d_odds, b365a_odds, competition_code
 3940, 21/08/2015_Málaga_Sevilla, 6, 21/08/2015, 1, 28, 12, 1, 3, 0, 0, 0, 0, D, 58, 42, 25, 10, 5, 2, 19, 11, 3, 5, 0, 1, 7, 2, 1, 3, 3.40, 3.40, 2.15, LAL
 3941, 22/08/2015_Deportivo-La-Coruña_Real-Sociedad, 6, 22/08/2015, 1, 29, 11, 3, 1, 0, 0, 0, 0, D, 58, 42, 16, 9, 5, 2, 16, 10, 3, 2, 0, 0, 5, 4, 2, 2, 2.50, 3.20, 3.00, LAL
 3942, 22/08/2015_Espanyol_Getafe, 6, 22/08/2015, 1, 17, 6, 3, 3, 1, 0, 1, 0, H, 34, 67, 5, 13, 2, 3, 19, 14, 2, 5, 0, 1, 4, 6, 5, 2, 1.91, 3.40, 4.33, LAL
@@ -379,3 +379,4 @@
 4317, 15/05/2016_Real-Betis_Getafe, 6, 15/05/2016, 38, 9, 6, 1, 2, 2, 1, 0, 0, H, 60, 40, 7, 15, 4, 6, 8, 27, 1, 8, 0, 1, 3, 2, 2, 6, 5.00, 3.80, 1.70, LAL
 4318, 15/05/2016_Rayo-Vallecano_Levante, 6, 15/05/2016, 38, 15, 26, 3, 3, 3, 1, 2, 0, H, 56, 44, 21, 8, 9, 2, 14, 8, 1, 3, 0, 0, 9, 3, 3, 0, 1.33, 5.25, 9.00, LAL
 4319, 15/05/2016_Sporting-Gijón_Villarreal, 6, 15/05/2016, 38, 30, 16, 1, 1, 2, 0, 1, 0, H, 52, 48, 16, 10, 7, 5, 10, 6, 1, 2, 0, 0, 4, 1, 1, 3, 1.44, 4.50, 7.50, LAL
+
